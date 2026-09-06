@@ -77,3 +77,11 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem | Link | Status |
 |---|---|---|
 | Graph Problems | [LinkedIn — Graph Problem List](https://www.linkedin.com/posts/if-you-want-to-master-the-graphs-start-with-share-7496940867371417600-WyON?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADVMRtMBRMx0OaZ9YrwiyfzHlenxxpJ_VM4&utm_campaign=whatsapp) | In Progress |
+
+
+## Material
+
+| Topic | References                                                                                                                                                                                                             |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Graph | [Graphs in Java — Medium](https://medium.com/@aqibbutt3078/graphs-in-java-94691259710)<br>[Implementing Generic Graph in Java — GeeksforGeeks](https://www.geeksforgeeks.org/java/implementing-generic-graph-in-java/) |
+| —     | Add more references here                                                                                                                                                                                               |
