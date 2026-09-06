@@ -10,7 +10,7 @@ class Solution {
 
     public int islandPerimeter(int[][] grid) {
         // plans:
-        // 1. iterate all nodes in O(n^2) because its adjacency matrix
+        // 1. iterate all nodes in O(rows × cols) because its adjacency matrix
         // 2. check for every potential neighbors in 4 directions (left, up, right, down)
         // 3. if neighbor of the node is out of bond or water then count it as 1 point perimeter
 
