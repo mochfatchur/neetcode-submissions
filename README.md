@@ -83,5 +83,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 
 | Topic | References                                                                                                                                                                                                             |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Graph | [Graphs in Java — Medium](https://medium.com/@aqibbutt3078/graphs-in-java-94691259710)<br>[Implementing Generic Graph in Java — GeeksforGeeks](https://www.geeksforgeeks.org/java/implementing-generic-graph-in-java/) |
+| Graph | [Graphs in Java — Medium](https://medium.com/@aqibbutt3078/graphs-in-java-94691259710f/)<br>[Implementing Generic Graph in Java — GeeksforGeeks](https://www.geeksforgeeks.org/java/implementing-generic-graph-in-java/) |
 | —     | Add more references here                                                                                                                                                                                               |
